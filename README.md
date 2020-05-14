@@ -2,7 +2,7 @@
 
 > 官网 [快速入门](https://eggjs.org/zh-cn/intro/quickstart.html)
 >
-> `gitHub` [examples](https://github.com/eggjs/examples)
+> `github` [examples](https://github.com/eggjs/examples)
 
 ### 安装依赖
 
